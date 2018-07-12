@@ -33,8 +33,8 @@ Program written by XXXXX XXXXX.
 Enter the semi-major axis value: 5.5
 Enter the semi-minor axis value: 3.3
 The focus of the ellipse is	           	 XXXX
-The ellipse area is  		           	XXXX
-The ellipse circumference is	 	XXXX
+The ellipse area is  		           	     XXXX
+The ellipse circumference is	 	         XXXX
 
 -------------------------------------
 Sample program run 2:
@@ -45,5 +45,5 @@ Program written by XXXXX XXXXX.
 Enter the semi-major axis value: 15.4
 Enter the semi-minor axis value: 7.7
 The focus of the ellipse is	           	   XXXX
-The ellipse area is 	   	           	XXXX
-The ellipse circumference is  	  	XXXX
+The ellipse area is 	   	           	     XXXX
+The ellipse circumference is  	  	       XXXX
